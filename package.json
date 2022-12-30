@@ -22,7 +22,7 @@
     "express-jwt": "^5.3.1",
     "express-session": "^1.16.2",
     "express-static-gzip": "^2.0.5",
-    "fast-json-patch": "^3.0.0-1",
+    "fast-json-patch": "^3.1.1",
     "jsonwebtoken": "^8.5.1",
     "lusca": "^1.6.1",
     "method-override": "^3.0.0",
